@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="Site de serviço de viagens" src="preview.jpg" width="100%">
+  <img alt="Site de serviço de viagens" src="preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
